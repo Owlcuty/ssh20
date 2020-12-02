@@ -1,0 +1,1 @@
+../build-Debug/ssh_sockets/myssh.cpp.o ../build-Debug/ssh_sockets/main.cpp.o ../build-Debug/ssh_sockets/mysockets.cpp.o
